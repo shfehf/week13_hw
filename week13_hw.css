@@ -1,0 +1,11 @@
+#guessBtn{
+	width: 4.5cm;
+	background-color: orange;
+}
+
+#block{
+	margin-left: 40%;
+	margin-right: 43%;
+	background-color: lightgray;
+	border-style: hidden;
+}
